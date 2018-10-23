@@ -1,6 +1,7 @@
 # Privacy
 
 It is important to us to protect your personal data. Therefore, we collect and store only the minimum amount of data about you that is required for us to provide you with the best possible service. Our data collection and storage policies fulfil at minimum the requirements of the General Data Protection Regulation (GDPR) and Telcommunications Act 2003 (TA 2003). This site informs you about data collection on our website.  
+Note that there is a separate privacy statement for users of the Cloudomation platform. 
 
 ## Contacting us
 If you choose to contact us via the email addresses provided on this website, we will store the data provided by you to process your request - i.e. to respond to your email, and follow up on any futher communication with you. We will store your emails, email address, name, and other data provided by you for a maximum duration of six months after the last contact with you. We will not pass on any of your personal data to third parties without your express consent.  
