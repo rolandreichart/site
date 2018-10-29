@@ -1,3 +1,3 @@
-## Example use cases
+# Example use cases
 
-Coming soon 
+Coming soon
