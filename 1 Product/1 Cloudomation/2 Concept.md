@@ -10,7 +10,7 @@ Incremental gains means that you realise value step by step. It is a concept tha
 - Broad applicability
 
 ### Stepwise value gains
-<img src="https://cdn.stocksnap.io/img-thumbs/960w/EWQYYB0G5A.jpg" class="responsive d-none d-md-block" style="float:right; margin: 10px 20px"/>
+<img src="/images/stepwise_value_gains.jpg" class="responsive d-none d-md-block" style="float:right; margin: 10px 20px"/>
 With Cloudomation, it is feasible to automate very small tasks. In fact, we recommend starting small. A business that wants to go the full nine yards to achieve automation excellence in all areas of their business, as well as a business that is looking to automate just one single process - both need to start by breaking down the automation journey into individual steps. And with Cloudomation, you can realise your automation step by step.
 
 Cloudomation integrates with almost any environment and software process, which means that you can automate one part, plug it into the exising system, and see how that feels. Cloudomation is agentless, which means that you don't need to make any changes to existing environments to start automating. You can just start. Make your own small automation your first proof of concept - and you will realise quickly that you save time, gain on reliability and efficiency, from the very first automated task onwards.  
