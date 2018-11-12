@@ -10,7 +10,7 @@ Whenever you visit Cloudomation.io, we recommend taking a look at the Terms of u
 
 ## Privacy
 
-We value your privacy and do what we can to protect your personal data. Please review our [privacy notice](/03 About/04 Privacy) to learn which data we collect on this Site, and how it is stored and processed.
+We value your privacy and do what we can to protect your personal data. Please review our [privacy notice](/site/About/Privacy) to learn which data we collect on this Site, and how it is stored and processed.
 
 ## Content ownership
 
