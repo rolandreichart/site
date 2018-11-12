@@ -35,6 +35,7 @@ The baker knows that he could not have set it up himself, but his nephew told hi
 His nephew goes on to tell the baker that he could now easily expand into the neighbouring town, open a new shop there, and double his revenue by delivering fresh buns and bread there as well. But that is one step too much for the baker, he is happy in his town and prefers to leave the neighbouring town to the neighbours. So his nephew posts his automation flow scripts into the Cloudomation public flow script library where other bakers could use it if they want to set up a similar delivery service.
 
 ## The software company
+<div class="parallax" id="code")></div>  
 This example use case is about a small software company and how it uses Cloudomation to set up continuous integration in their software development process. They improve their operational efficiency and reach operational excellence that allows them be more confident in their product, and focus on what they are best at: developing great software.
 
 Let us picture a small software company with a dozen employees and a few years in the market. They have grown organically  and while they have come a long way since the early days where it was just the two founders, they still often feel like there is too much to do, too little time, and that they could easily keep twice as many people busy.
