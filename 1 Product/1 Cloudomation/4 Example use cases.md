@@ -5,6 +5,7 @@ As a general purpose automation tool, Cloudomation can be used for a wide range 
 If you have example use cases from your use of Cloudomation that you think might be a good example for others to learn about what Cloudomation can do, please reach out on info@cloudomation.io to share your story with us.
 
 ## The baker
+<div class="parallax" id="bread")></div>  
 This example use case describes a small bakery in a rural setting and how it could benefit from software automation to improve customer service and operational efficiency. In this use case, we left out most of the techincal details to make it easier to read.
 
 Let us picture a small bakery with a handfull of employees. The master baker is proud of his breads and buns, of which he offer only a small selection, but all of them he makes himself. The bakery is situated in a small town that is just large enough to support a bakery, and the townspeople are happy that they can get fresh, local bread from their own bakery around the corner.
