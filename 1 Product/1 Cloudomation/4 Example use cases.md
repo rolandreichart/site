@@ -1,6 +1,6 @@
 # Example use cases
 
-As a general purpose automation tool, Cloudomation can be used for a wide range of use cases. We tried to find some examples from different industries and applications to provide an impression from different perspective. We recommend you find a use case that you can relate to and start there, instead of reading from top to bottom. Each use case starts with a short description of its industry to make it easier for you to find one that is relevant to you.
+As a general purpose automation tool, Cloudomation can be used for a wide range of use cases. We tried to find some examples from different industries and applications to provide an impression from different perspectives. We recommend you find a use case that you can relate to and start there, instead of reading from top to bottom. Each use case starts with a short description of its industry to make it easier for you to find one that is relevant to you.
 
 If you have example use cases from your use of Cloudomation that you think might be a good example for others to learn about what Cloudomation can do, please reach out on info@cloudomation.io to share your story with us.
 
