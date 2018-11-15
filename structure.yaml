@@ -1,0 +1,26 @@
+pages:
+- name: Product
+  pages:
+  - name: Cloudomation
+    pages:
+    - name: About Cloudomation
+    - name: Concept
+    - name: Functionality
+    - name: Example use cases
+  - name: Services
+  - name: Partners
+  - name: Pricing
+  - name: Token calculator
+- name: Blog
+  pages:
+  - name: Success Stories
+  - name: The automation journey
+  - name: Standing on the shoulders of giants
+  - name: Shaping the future
+- name: About
+  pages:
+  - name: About Us
+  - name: News & Events
+  - name: Contact
+  - name: Privacy
+  - name: Terms of Use
