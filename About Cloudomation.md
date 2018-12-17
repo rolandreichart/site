@@ -1,11 +1,11 @@
 # About Cloudomation
 
-Cloudomation is a cloud platform for software automation. It empowers system administrators, DevOps engineers, developers, and others to deal with increasingly complex IT infrastructures. Integrate diverse and siloed IT landscapes, manage your infrastructure in one place, and reliably offload repetitive tasks with Cloudomation.
+Imagine you could play Lego with software. How much fun software integration would be!
 
 Picture every piece of software that you have in your organisation as a building block. Making your software work together means using your blocks to build something bigger: it is possible, but quickly becomes precarious. If one block falls over, your entire tower comes down.  
 With Cloudomation, your building blocks become Lego pieces: you can fit them together seamlessly, in almost any structure you want. You can start by fitting to pieces together, and continue to build it out. It can become very big and complex, while remaining robust. You can reuse the individual pieces, and it is as easy to extend as it is to build.
 
-Imagine you could play Lego with software. How much fun software integration would be!
+Cloudomation is a cloud platform for software automation. It empowers system administrators, DevOps engineers, developers, and others to deal with increasingly complex IT infrastructures. Integrate diverse and siloed IT landscapes, manage your infrastructure in one place, and reliably offload repetitive tasks with Cloudomation.
 
 Cloudomation can work across departments, tools, and technologies to automate virtually any IT process. With Cloudomation, managing your IT becomes easier, faster, and more reliable.
 
@@ -14,9 +14,9 @@ Cloudomation is focused on providing automation-specific functionality. This mea
 
 The following graphic gives a non-exhaustive overview of Cloudomation functionality.
 
-<img src="/sitedata/images/Cloudomation_functionality.PNG" alt="example functionality" class="responsive d-none d-md-block" style="float:center; margin: 10px 20px"/>
+<img src="/sitedata/images/Cloudomation_functionality.PNG" alt="example functionality" class="fullsize d-none d-md-block" style="float:center; margin: 10px 20px"/>
 
-Find a more detailed description of Cloudomation functionality on the [functionality page](/Functionality.md).
+Find a more detailed description of Cloudomation functionality on the [functionality page](/Functionality).
 
 ## What makes Cloudomation special
 

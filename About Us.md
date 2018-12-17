@@ -9,9 +9,9 @@ Our goal is to help you reach that same point, where all the mundane tasks, the 
 If you have an idea how we could do our job better, please let us know: send us a message at [info@cloudomation.io](mailto:info@cloudomation.io). We value your feedback.
 
 ## Team
-Starflows was founded by Stefan and Margot Mückstein, siblings with a shared passion for software and automation.
-
 <img src="/sitedata/images/Stefan_und_Margot_1995.jpg" alt="Fouders in 1995" class="responsive d-none d-md-block" style="float:right; margin: 10px 20px"/>
+
+Starflows was founded by Stefan and Margot Mückstein, siblings with a shared passion for software and automation.
 
 Stefan earned his spurs during his dozen-year tenure at a leading provider of software automation solutions. Inspired by their mission, Stefan set out to bring the benefits of automation to a wider audience. At Starflows, Stefan serves as Chief Technology Officer, Lead Developer, and Chief Happiness Officer. Because that is what it is all about for us: happiness - which is much easier when you know that your IT infrastructure is up and running, even if you're off playing with your kids or taking a quick snooze.
 
