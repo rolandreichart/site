@@ -1,5 +1,6 @@
-# Concept
+# Benefits
 
+What are your benefits from using Cloudomation?  
 Cloudomation is based on one core idea: **incremental gains**.
 
 Incremental gains means that you realise value step by step. It is a concept that is ideally suited to automation, and it leads to a set of guiding principles that inform our product development and our business philosophy:
