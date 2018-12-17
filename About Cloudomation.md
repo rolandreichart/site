@@ -16,7 +16,7 @@ The following graphic gives a non-exhaustive overview of Cloudomation functional
 
 <img src="/sitedata/images/Cloudomation_functionality.PNG" alt="example functionality" class="fullsize d-none d-md-block" style="float:center; margin: 10px 20px"/>
 
-Find a more detailed description of Cloudomation functionality on the [functionality page](/Functionality).
+Find a more detailed description of Cloudomation functionality on the [functionality page](/site/Functionality).
 
 ## What makes Cloudomation special
 
