@@ -1,6 +1,6 @@
 # Privacy
 
-<i class="fa fa-lock fa-5x fa-pull-left"></i> It is important to Starflows to protect your personal data. Therefore, we collect and store only the minimum amount of data about you that is required for us to provide you with the best possible service. Our data collection and storage policies fulfil at minimum the requirements of the General Data Protection Regulation (GDPR), the data protection law, and Telcommunications Act 2003 (TA 2003). This site informs you about data collection on our website.  
+<i class="fa fa-lock fa-5x fa-pull-left"></i> It is important to Starflows ("us", "we") to protect your personal data. Therefore, we collect and store only the minimum amount of data about you that is required for us to provide you with the best possible service. Our data collection and storage policies fulfil at minimum the requirements of the General Data Protection Regulation (GDPR), the data protection law, and Telcommunications Act 2003 (TA 2003). This site informs you about data collection on our website.  
 
 Note that there is a separate privacy statement for users of the Cloudomation platform and the Cloudomation service desk.
 
