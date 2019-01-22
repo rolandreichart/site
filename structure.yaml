@@ -8,9 +8,7 @@ pages:
     - name: Functionality
     - name: Example use cases
   - name: Services
-  - name: Partners
   - name: Pricing
-  - name: Token Calculator
 - name: Blog
   pages:
   - name: Success Stories
