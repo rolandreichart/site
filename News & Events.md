@@ -9,10 +9,10 @@ We are proud about taking this big step, and are looking forward to the many nex
 Please note that the event will be held in German language due to the mostly German-speaking audience.
 
 ##### Location
-ZI8 co-working space
-Zimmermanngasse 8
-1090 Vienna
-U6, 43, 44 Alser Straße
+ZI8 co-working space  
+Zimmermanngasse 8  
+1090 Vienna  
+U6, 43, 44 Alser Straße  
 
 ##### Schedule
 March 1st 2019, 18:30  
