@@ -8,18 +8,18 @@ We are proud about taking this big step, and are looking forward to the many nex
 
 Please note that the event will be held in German language due to the mostly German-speaking audience.
 
-#### Location
+##### Location
 ZI8 co-working space
 Zimmermanngasse 8
 1090 Vienna
 U6, 43, 44 Alser Straße
 
-#### Schedule
+##### Schedule
 March 1st 2019, 18:30  
 18:00 admission  
 18:30 presentation  
 19:30 get-together  
 21:00 end (of the official part, start of the unofficial party :)
 
-#### RSVP
+##### RSVP
 Please tell us [here](https://doodle.com/poll/q9srp5h6dubsinz6) if you are coming.
