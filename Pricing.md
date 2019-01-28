@@ -7,7 +7,7 @@ When you first create an account on the Cloudomation platform, you are automatic
 
 We want you to be convinced by our product, and not be shackled by contract conditions. All subscription packages can be cancelled with the end of each month.
 
-<img src="/sitedata/images/subscription_packages.PNG" alt="subscription packages overview" class="dock-md d-none d-md-block" style="float:center; margin: 10px 20px"/>
+<img src="/sitedata/images/subscription_packages.PNG" alt="subscription packages overview" class="fullsize d-none d-md-block" style="float:center; margin: 10px 20px"/>
 
 \* See the terms and conditions for details on support time lines  
 All quoted prices are net prices, except otherwise stated.  
