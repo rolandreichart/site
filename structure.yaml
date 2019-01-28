@@ -12,6 +12,7 @@ pages:
 - name: Blog
   pages:
   - name: Success Stories
+  - name: Newsletters
 - name: About
   pages:
   - name: About Us
