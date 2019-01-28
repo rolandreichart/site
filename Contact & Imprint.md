@@ -14,7 +14,7 @@ VAT identification number (UID): ATU73947768
 Nature and purpose of the business: IT services, provision of a cloud platform and supporting services  
 Member of the chamber of commerce Vienna, section UBIT  
 Regulatory authority: Municipal office of the 10th district of Vienna  
-Applicable law: http://ris.bka.gv.at/  
+Applicable law: [http://ris.bka.gv.at/](http://ris.bka.gv.at/){ext}  
 
-You can register complaints with the Online Dispute Resolution platform of the EU: http://ec.europa.eu/odr  
+You can register complaints with the Online Dispute Resolution platform of the EU: [http://ec.europa.eu/odr](http://ec.europa.eu/odr){ext}  
 You can also register complaints directly using the above email address.
