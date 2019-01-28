@@ -1,7 +1,7 @@
 # News & Events
 
 ## 2019-03-01: Cloudomation launch party
-<img src="/sitedata/images/party_horn.PNG" alt="celebration" class="d-none d-md-block" width="100" style="float:right; margin: 10px 20px"/>
+<img src="/sitedata/images/party_horn.PNG" alt="celebration" class="d-none d-md-block" width="100" style="float:left; margin: 10px 20px"/>
 Cloudomation version 1 will be publicly available in February 2019. Join us in celebrating this milestone on **Friday, March 1st 2019** at **18:30** at the **ZI8 co-working space**. We will talk a little bit about Cloudomation, answer questions, and show you where we currently are - and we will celebrate with sparkling wine, snacks and drinks.
 
 We are proud about taking this big step, and are looking forward to the many next steps that will follow: we’re only getting started!
