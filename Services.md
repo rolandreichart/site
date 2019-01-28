@@ -19,44 +19,30 @@ Professional services can be purchase directly from Cloudomation on a time-and-m
 ## Software support services
 Software support can be purchased only as part of a token & support package. For pricing and package details, refer to the [pricing](Pricing) section.
 
-The main service delivery channel of Cloudomation is the Cloudomation service desk. Through the service desk, you can ask questions, report issues, suggest new features, and provide general feedback on the Cloudomation platform. All Cloudomation platform accounts include access to the Cloudomation service desk.
+The main service delivery channel of Cloudomation is the Cloudomation service desk. Through the service desk, you can ask questions, report issues, suggest new features, and provide general feedback on the Cloudomation platform.
 
-In addition, Cloudomation users are encouraged to join the Cloudomation community on [stackoverflow](https://stackoverflow.com/). Stackoverflow is a public support forum for a wide range of technologies. Using the Cloudomation tag on stackoverflow questions enables you to post questions directly to the user community of Cloudomation that is active on stackoverflow. Cloudomation staff is active on stackoverflow as well and aims to provide service through this channel when time allows. We also encourage you to browse open Cloudomation questions on stackoverflow and help fellow Cloudomation users where you can.
+In addition, Cloudomation users are encouraged to join the Cloudomation communities on [stackoverflow](https://stackoverflow.com/){ext} and [superuser](https://superuser.com/){ext}. Stackoverflow is a public support forum for a wide range of technologies. Using the Cloudomation tag on questions enables you to post questions directly to the user communities of Cloudomation that are active on stackoverflow and superuser. Cloudomation staff is active on these two forums as well and aims to provide service through this channel when time allows. We also encourage you to browse open Cloudomation questions and help fellow Cloudomation users where you can.
 
 Cloudomation offers four standard support packages, characterised by different service level agreements: self-service and community support, standard support, premium support, and 24/7 support.
 
 ##### Self-service and community support
 The self-service support package is included in all Cloudomation accounts and offers the following support features:
-- Access to the Cloudomation service desk and ability to create tickets with no associated SLAs
-- Ability to browse shared service desk tickets from other customers
-- Encouraged use of community support through stackoverflow
+- Access to public documentation
+- Information service: updates about new Cloudomation versions
+- Encouraged use of community support through stackoverflow and superuser
+- Standard product warranty including resolution of severe faults in the software
 
-The self-service and community support package is recommended for Cloudoamtion users with good Python skills and basic knowledge about software automation who are willing and able to use the Cloudomation documentation as well as existing tickets and questions created by other users to answer their own questions.  
-
-Even though there are no guaranteed response times or SLAs associated with tickets created by self-service customers, Cloudoamtion support staff aims to respond to all tickets. Prioritisation of tickets will follow the SLAs associated with each ticket, as well as the severity of issues reported.
+The self-service and community support package is recommended for Cloudoamtion users with good Python skills and basic knowledge about software automation who are willing and able to use the Cloudomation documentation and community support channels.  
 
 ##### Standard support
-The standard support package is included in the Cloudomation standard package and offers the following support features:
-- Access to the Cloudomation service desk and ability to create tickets with guaranteed response times (SLAs) - 8x5 support
+The standard support package is included in the Cloudomation standard package and offers the following support features on top of the self-service support offerings described above:
+- Access to the Cloudomation service desk (one user) and ability to create tickets with guaranteed response times during normal working hours
 - Ability to browse shared service desk tickets from other customers
-- Encouraged use of community support through stackoverflow
-
-The standard support package includes 8x5 support. This means that Cloudomation support staff will respond to tickets Monday through Friday between 9am and 5pm. Service level timelines are only active during these times.  
-This means that a question asked by a customer with the standard support ticket on a Monday afternoon at 3pm with an associated first-response SLA of 8 hours will get a guaranteed response by latest 3pm on Tuesday. The same ticket created on a Sunday afternoon will be responded to latest by Monday 5pm.
 
 ##### Premium support
-The premium support package is included in the Cloudomation premium package and offers the following support features:
-- Access to the Cloudomation service desk and ability to create tickets with guaranteed response times (SLAs) tiered to ticket type and severity - 8x5 support
+The premium support package is included in the Cloudomation premium package and offers the following support features on top of the self-service support offerings described above:
+- Access to the Cloudomation service desk (up to three users) and ability to create tickets with guaranteed response times tiered to ticket type and severity during normal working hours
 - Ability to browse shared service desk tickets from other customers
 - Encouraged use of community support through stackoverflow
 
-The premium support package includes 8x5 support. This means that Cloudomation support staff will respond to tickets Monday through Friday between 9am and 5pm. Service level timelines are only active during these times.  
-In addition to the support levels guaranteed in the standard package, the premium package offers tiered SLAs for different ticket types. This means that we guarantee that you will receive help very quickly if you encounter a major problem on the platform, or have a very urgent question.
-
-##### 24/7 support
-The 24/7 support package is only available on request for dedicated Cloudomation instances and offers the following support features:
-- Access to the Cloudomation service desk and ability to create tickets with guaranteed response times (SLAs) tiered to ticket type and severity - 24/7 support
-- Ability to browse shared service desk tickets from other customers
-- Encouraged use of community support through stackoverflow
-
-The 24/7 support package guarantees SLAs for 24 hours each day, seven days per week. This means that you have guaranteed resolution times for problems that occur any time, on any day.
+In addition to the response timelines guaranteed in the standard package, the premium package offers tiered response timelines as well as guaranteed resolution timelines for different ticket types. This means that we guarantee that you will receive help very quickly if you encounter a major problem on the platform, or have a very urgent question.
