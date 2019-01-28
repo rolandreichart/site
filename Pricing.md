@@ -1,13 +1,13 @@
 # Pricing
 
 ## Platform pricing
-To use the Cloudomation platform, you always need an active subscription package associated with your account. There are four subscription packages available: trial, starter, standard and premium. Each subscription package contains a support services package, as well as Cloudomation Tokens. Please refer to the [Tokens](/documentation/Tokens) site to understand what Cloudomation Tokens are.  
+To use the Cloudomation platform, you need an active subscription package associated with your account. There are four subscription packages available: Trial, Starter, Standard and Premium. Each subscription package contains a support services package, as well as Cloudomation Tokens. Please refer to the [Tokens](/documentation/Tokens) site to learn what Cloudomation Tokens are.  
 
-When you first create an account on the Cloudomation platform, you are automatically issues with the Trial subscription package. This package is for free, and allows you to explore and test the Cloudomation platform for up to six weeks.  
+When you first create an account on the Cloudomation platform, you are automatically issued a Trial subscription package. This package is for free, and allows you to explore and test the Cloudomation platform for up to six weeks.  
 
 We want you to be convinced by our product, and not be shackled by contract conditions. All subscription packages can be cancelled with the end of each month.
 
-<img src="/sitedata/images/subscription_packages.PNG" alt="subscription packages overview" class="d-none d-md-block" style="float:center; margin: 10px 20px"/>
+<img src="/sitedata/images/subscription_packages.PNG" alt="subscription packages overview" class="dock-md d-none d-md-block" style="float:center; margin: 10px 20px"/>
 
 \* See the terms and conditions for details on support time lines  
 All quoted prices are net prices, except otherwise stated.  

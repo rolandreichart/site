@@ -14,7 +14,7 @@ All professional services delivered by Cloudomation are project based and are in
 
 Agile delivery mode refers to a project delivery methodlogody characterised through iterative improvements on the project outcome (the product), which is delivered in sprints. Each sprint ends with a working version of the product. One of the three parameters of time, resources, and scope has to be flexible, with a preference for flexible scope.
 
-Professional services can be purchase directly from Cloudomation on a time-and-material basis. Cloudomation does not offer fixed price engagements. As an alternative, Cloudomation can refer you within the Cloudomation partner network for professional services delivery through one of our certified partners.
+Professional services can be purchase directly from Cloudomation on a time-and-material basis. Cloudomation does not offer fixed price engagements. As an alternative, Cloudomation can refer you within the Cloudomation partner network for professional services delivery through one of our partners.
 
 ## Software support services
 Software support can be purchased only as part of a token & support package. For pricing and package details, refer to the [pricing](Pricing) section.
