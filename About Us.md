@@ -15,7 +15,7 @@ Starflows was founded by Stefan and Margot Mückstein, siblings with a shared pa
 
 Stefan earned his spurs during his dozen-year tenure at a leading provider of software automation solutions. Inspired by their mission, Stefan set out to bring the benefits of automation to a wider audience. At Starflows, Stefan serves as Chief Technology Officer, Lead Developer, and Chief Happiness Officer. Because that is what it is all about for us: happiness - which is much easier when you know that your IT infrastructure is up and running, even if you're off playing with your kids or taking a quick snooze.
 
-<img src="/sitedata/images/Margot_kleiner.png" alt="Margot Mueckstein" class="responsive d-none d-md-block" style="float:left; margin: 10px 20px"/>
+<img src="/sitedata/images/Margot_kleiner.png" alt="Margot Mueckstein" class="responsive d-none d-md-block" style="float:right; margin: 10px 20px"/>
 
 Margot is a Psychologist, Data Scientist, Project Manager, Event Organiser, Software Consultant, recreational writer and improving as a developer. Her job as Chief Executive Officer of Starflows is to build a business around Stefan's amazing work.
 
