@@ -18,3 +18,5 @@ Applicable law: [http://ris.bka.gv.at/](http://ris.bka.gv.at/){ext}
 
 You can register complaints with the Online Dispute Resolution platform of the EU: [http://ec.europa.eu/odr](http://ec.europa.eu/odr){ext}  
 You can also register complaints directly using the above email address.
+
+Chamber of commerce registry: [Stefan Mückstein](https://firmen.wko.at/Web/DetailsKontakt.aspx?FirmaID=972242a5-50ec-4882-b24d-ffc4de652943&StandortID=0){ext}
