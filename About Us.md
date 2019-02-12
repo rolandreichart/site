@@ -9,14 +9,13 @@ Our goal is to help you reach that same point, where all the mundane tasks, the 
 If you have an idea how we could do our job better, please let us know: send us a message at [info@cloudomation.io](mailto:info@cloudomation.io). We value your feedback.
 
 ## Team
-Starflows was founded by Stefan and Margot Mückstein, siblings with a shared passion for software and automation.
-
 <img src="/sitedata/images/Stefan_kleiner.png" alt="Stefan Mueckstein" class="responsive d-none d-md-block" style="float:left; margin: 10px 20px"/>
+<img src="/sitedata/images/Margot_kleiner.png" alt="Margot Mueckstein" class="responsive d-none d-md-block" style="float:right; margin: 10px 20px"/>
+
+Starflows was founded by Stefan and Margot Mückstein, siblings with a shared passion for software and automation.
 
 Stefan earned his spurs during his dozen-year tenure at a leading provider of software automation solutions. Inspired by their mission, Stefan set out to bring the benefits of automation to a wider audience. At Starflows, Stefan serves as Chief Technology Officer, Lead Developer, and Chief Happiness Officer. Because that is what it is all about for us: happiness - which is much easier when you know that your IT infrastructure is up and running, even if you're off playing with your kids or taking a quick snooze.
 
-<img src="/sitedata/images/Margot_kleiner.png" alt="Margot Mueckstein" class="responsive d-none d-md-block" style="float:right; margin: 10px 20px"/>
-
 Margot is a Psychologist, Data Scientist, Project Manager, Event Organiser, Software Consultant, recreational writer and improving as a developer. Her job as Chief Executive Officer of Starflows is to build a business around Stefan's amazing work.
 
-If you know Python, share our belief that the world will be a better place if people didn't have so much to do, are committed to excellence in your work and wondrously do not currently have a job that you are super happy with, **consider joining our team**. Tell us a bit about you in an email to [info@cloudomation.io](mailto:info@cloudomation.io).
+If you know Python, share our fascination with and passion for automation, are committed to excellence in your work and wondrously do not currently have a job that you are super happy with, **consider joining our team**. Tell us a bit about you in an email to [info@cloudomation.io](mailto:info@cloudomation.io).
