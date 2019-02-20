@@ -20,3 +20,8 @@ pages:
   - name: Contact & Imprint
   - name: Privacy
   - name: Terms of Use
+    pages:
+    - name: General Terms and Conditions
+    - name: Allgemeine Geschäftsbedigungen
+    - name: Terms of use website
+    - name: Nutzungsbedingungen Webseite
