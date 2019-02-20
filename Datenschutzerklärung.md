@@ -98,3 +98,4 @@ Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht v
 
 ## 12 Kontaktieren Sie uns
 Sie können uns unter [info@cloudomation.io](mailto:info@cloudomation.io) kontaktieren um Gebrauch von Ihren Datenschutzrechten zu machen.
+ 
