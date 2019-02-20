@@ -2,7 +2,7 @@
 
 You can **download** the Cloudomation Privacy Statement [here](https://github.com/starflows/site/blob/master/downloads/Privacy%20statement%20Cloudomation.pdf){ext}.
 
-The Privacy Statement also available in **German** [here](/Datenschutzerklärung).
+The Privacy Statement also available in **German** [here](/Datenschutzerkl%C3%A4rung).
 
 <i class="fa fa-lock fa-5x fa-pull-left"></i> Protecting your personal data is important to us. Therefore, we collect and store only the minimum amount of data about you that is required for us to provide you with the best possible service. Our data collection and storage policies fulfil at minimum the requirements of the General Data Protection Regulation (GDPR), and the Austrian data protection law. In this privacy statement, we want to inform you about which personal data we collect, store, process, and to which end we do so.  
 
