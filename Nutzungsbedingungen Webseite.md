@@ -4,7 +4,7 @@ An dieser Stelle wollen wir Sie über die Nutzungsbedingungen für die Cloudomat
 
 Sie können die Nutzungsbedingungen für die Cloudomation Webseite [hier](https://github.com/starflows/site/blob/master/downloads/Nutzungsbedingungen%20Cloudomation%20Webseite.pdf){ext} **herunterladen**.
 
-Die Nutzungsbedingungen für die Webseite sind [hier](/Terms+of+use+website) auch auf **Englisch** verfügbar.
+Die Nutzungsbedingungen für die Webseite sind [hier](/site/Terms+of+use+website) auch auf **Englisch** verfügbar.
 
 Bitte beachten Sie, dass diese Nutzungsbedingungen sich nur auf Ihren Zugriff auf und Ihre Verwendung der Cloudomation Webseite beziehen. Die **Allgemeinen Geschäftsbedingungen** für die Cloudomation Plattform finden Sie [hier](/Terms+of+use+platform+-+English).
 

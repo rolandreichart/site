@@ -4,9 +4,9 @@ On this page, we want to inform you of the terms of use for the Cloudomation web
 
 You can **download** the Terms of Use for the website [here](https://github.com/starflows/site/blob/master/downloads/Terms%20of%20use%20Cloudomation%20website.pdf){ext}.
 
-The terms of use are also available in **German** [here](/Nutzungsbedingungen+Webseite).
+The terms of use are also available in **German** [here](/site/Nutzungsbedingungen+Webseite).
 
-Note that these Terms refer only to you access to and use of the Cloudomation website. You can find the **General Terms and Conditions** for the Cloudomation Platform [here](/General+Terms+and+Conditions).
+Note that these Terms refer only to you access to and use of the Cloudomation website. You can find the **General Terms and Conditions** for the Cloudomation Platform [here](/site/General+Terms+and+Conditions).
 
 These terms and any terms referenced herein form the legal agreement between you and Stefan Mückstein ("we", "us"), that governs your use and access to Cloudomation (the "Site"). By accessing, browsing, or using the Site you agree to be bound be these terms (the "Terms"). If you do not agree to the Terms, you must not use, access, or browse the Site. The Terms constitute the entire agreement between us regarding your use of the Site, and supersede and replace any prior agreements we might have between us regarding your use of the Site.
 

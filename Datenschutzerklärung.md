@@ -2,7 +2,7 @@
 
 Sie können die Cloudomation Datenschutzerklärung [hier](https://github.com/starflows/site/blob/master/downloads/Datenschutzerkl%C3%A4rung%20Cloudomation.pdf){ext} **herunterladen**.
 
-Die Datenschutzerklärung ist [hier](/Privacy) auch auf **Englisch** verfügbar.
+Die Datenschutzerklärung ist [hier](/site/Privacy) auch auf **Englisch** verfügbar.
 
 <i class="fa fa-lock fa-5x fa-pull-left"></i> Es ist uns wichtig, Ihre persönlichen Daten zu schützen. Daher sammeln und speichern wir nur das Minimum an Daten über Sie, die notwendig sind, um Ihnen bestmöglichen Service zu bieten. Unsere Datensammlungs- und speicherungsrichtlinien erfüllen zumindest die Vorgaben der Datenschutz-Grundverordnung (DSGVO) und des Datenschutzgesetzes (DSG). In dieser Datenschutzerklärung informieren wir Sie, welche persönlichen Daten wir erfassen, speichern und verarbeiten und zu welchem Zweck.
 
@@ -98,4 +98,3 @@ Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht v
 
 ## 12 Kontaktieren Sie uns
 Sie können uns unter [info@cloudomation.io](mailto:info@cloudomation.io) kontaktieren um Gebrauch von Ihren Datenschutzrechten zu machen.
- 
