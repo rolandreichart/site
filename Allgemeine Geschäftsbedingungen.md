@@ -5,7 +5,7 @@ Februar 2019
 
 Sie können die Allgemeinen Geschäftsbedingungen für die Cloudomation Plattform [hier](https://github.com/starflows/site/blob/master/downloads/Allgemeine%20Gesch%C3%A4ftsbedingungen%20Cloudomation%20Plattform.pdf){ext} **herunterladen**.
 
-Die Allgemeinen Geschäftsbedingungen für die Cloudomation Plattform sind [hier](/General+Terms+and+Conditions) auch auf **Englisch** verfügbar.
+Die Allgemeinen Geschäftsbedingungen für die Cloudomation Plattform sind [hier](/site/General+Terms+and+Conditions) auch auf **Englisch** verfügbar.
 
 ## 1 Allgemeine Bestimmungen
 Die Starflows Cloudomation Allgemeine Geschäftsbedingungen (“AGB”) sind ein Vertrag zwischen Stefan Mückstein (“uns”, “wir”) und Ihnen oder der Entität, die Sie repräsentieren (“Sie”, “Ihr”). Stefan Mückstein ist Einzelunternehmer unter Österreichischem Recht mit Sitz am Suchenwirtplatz 10/27, 1100 Wien, Österreich.

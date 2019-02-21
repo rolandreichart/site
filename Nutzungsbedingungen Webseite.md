@@ -6,7 +6,7 @@ Sie können die Nutzungsbedingungen für die Cloudomation Webseite [hier](https:
 
 Die Nutzungsbedingungen für die Webseite sind [hier](/site/Terms+of+use+website) auch auf **Englisch** verfügbar.
 
-Bitte beachten Sie, dass diese Nutzungsbedingungen sich nur auf Ihren Zugriff auf und Ihre Verwendung der Cloudomation Webseite beziehen. Die **Allgemeinen Geschäftsbedingungen** für die Cloudomation Plattform finden Sie [hier](/Terms+of+use+platform+-+English).
+Bitte beachten Sie, dass diese Nutzungsbedingungen sich nur auf Ihren Zugriff auf und Ihre Verwendung der Cloudomation Webseite beziehen. Die **Allgemeinen Geschäftsbedingungen** für die Cloudomation Plattform finden Sie [hier](/site/Terms+of+use+platform+-+English).
 
 Die hier beschriebenen Nutzungsbedingungen bilden den Gegenstand der rechtlichen Vereinbarung zwischen Ihnen und Stefan Mückstein (in Folge: "wir", "uns")  mit Bezug auf Ihre Nutzung und Ihren Zugriff auf die Webseite.  Falls Sie den Nutzungsbedingungen nicht zustimmen, müssen sie jeglichen Zugriff, Aufruf, oder jede Verwendung der Webseite unterlassen. Die hier aufgeführten Nutzungebdingungen stellen die gesamte Vereinbarung zwischen Ihnen und uns bezüglich der Nutzung der Webseite dar und ersetzen vorherige Vereinbarungen zwischen Ihnen und uns bezüglich der Nutzung der Webseite.
 
