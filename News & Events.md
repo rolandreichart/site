@@ -10,10 +10,16 @@ We had a great time with all of you who joined us for our **product launch party
 
 Check out the [pictures](https://photos.app.goo.gl/tqm3oom1o1v8ZVQW9){ext} from the event. We also created some materials in German for the launch party: a short [explanation of Cloudomation](/sitedata/downloads/Cloudomation_kurz_erklärt.pdf), a few [examples](/sitedata/downloads/Cloudomation_Beispiele.pdf), and [definitions](/sitedata/downloads/Cloudomation_was_bedeutet.pdf) for some of the jargon we use when describing Cloudomation.
 
-We started the launch party with an analogy: the tower of Babel failed because people lost the ability to communicate with each other. Unable to coordinate their efforts, the tower of Babel was never completed. We see the same thing happening in modern IT infrastructure: lots of individual components that do their thing, but they are not connected. Without coordination, without exchanging information, the IT infrastructure often fails to achieve its goals.  
-This is where Cloudomation shines: Cloudomation can integrate and connect all your software components. Cloudomation glues them together. Cloudomation translates, coordinates, and aligns.  
-Cloudomation translates and transfers information between your components, synchrinising them to a common source of truth. You tell Cloudomation once what you want to achieve, then Cloudomation coordinates all the little steps along the way to make sure all the individual software components know what to do when. In the end, you can build your modern tower of Babel that reaches the sky: a fully integrated IT landscape that achieves all its operating targets.  
+We started the launch party with an analogy: the tower of Babel failed because people lost the ability to communicate with each other. Unable to coordinate their efforts, the tower of Babel was never completed.
+
+We see the same thing happening in modern IT infrastructure: lots of individual components that do their thing, but they are not connected. Without coordination, without exchanging information, the IT infrastructure often fails to achieve its goals.  
+
+This is where Cloudomation shines: Cloudomation can integrate and connect all your software components. Cloudomation translates, coordinates, and aligns.  
+
+Define a good process once, and then let Cloudomation take care of executing it: coordinating all the software components that are needed, making sure they have all the information they need, know what to do, and when. Build your own tower of Babel that reaches the sky: a fully integrated IT landscape that achieves all its operating targets.
+
 Sounds good?  
+
 [Get started](/signup).
 
 ## 2019-03-01: Cloudomation launch party
