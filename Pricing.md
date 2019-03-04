@@ -14,6 +14,8 @@ All quoted prices are net prices, except otherwise stated.
 Please note that the Cloudomation platform is currently available within the European Union. If you are interested in subscribing to the Cloudomation platform and are located outside of the EU, please contact us at [info@cloudomation.io](mailto:info@cloudomation.io).  
 Available payment option is payment via bank transfer after receipt of invoice.  
 
+<center><a class="btn btn-lg btn-primary" href="/subscription"><i class="fa fa-shopping-cart"></i> Buy now! </a></center>
+
 ## Service pricing
 Cloudomation software support services are included in the subscription packages as described above. In addition to the support services, we are happy to support you on your automation journey with professional services. Please refer to the [services](/Services) page for more information about our professional services.
 
