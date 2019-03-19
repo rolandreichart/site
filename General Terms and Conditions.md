@@ -2,7 +2,7 @@
 Version 1.0  
 February 2019
 
-You can **download** the General Terms and Conditions for the Cloudomation platform [here](https://github.com/starflows/site/blob/master/downloads/General%20Terms%20and%20Conditions%20Cloudomation%20platform.pdf){ext}.
+You can **download** the General Terms and Conditions for the Cloudomation platform [here](/sitedata/downloads/General%20Terms%20and%20Conditions%20Cloudomation%20platform.pdf){ext}.
 
 The General Terms and Conditions are also available in **German** [here](/site/Allgemeine+Geschäftsbedingungen).
 

@@ -1,6 +1,6 @@
 # Privacy Statement
 
-You can **download** the Cloudomation Privacy Statement [here](https://github.com/starflows/site/blob/master/downloads/Privacy%20statement%20Cloudomation.pdf){ext}.
+You can **download** the Cloudomation Privacy Statement [here](/sitedata/downloads/Privacy%20statement%20Cloudomation.pdf){ext}.
 
 The Privacy Statement also available in **German** [here](/site/Datenschutzerklärung).
 

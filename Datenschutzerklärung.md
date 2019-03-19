@@ -1,6 +1,6 @@
 # Datenschutzerklärung Cloudomation
 
-Sie können die Cloudomation Datenschutzerklärung [hier](https://github.com/starflows/site/blob/master/downloads/Datenschutzerkl%C3%A4rung%20Cloudomation.pdf){ext} **herunterladen**.
+Sie können die Cloudomation Datenschutzerklärung [hier](/sitedata/downloads/Datenschutzerkl%C3%A4rung%20Cloudomation.pdf){ext} **herunterladen**.
 
 Die Datenschutzerklärung ist [hier](/site/Privacy) auch auf **Englisch** verfügbar.
 
