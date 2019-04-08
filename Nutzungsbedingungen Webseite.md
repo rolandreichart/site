@@ -1,4 +1,6 @@
 # Nutzungsbedingungen Cloudomation Webseite
+Version 1  
+\1. Februar 2019
 
 An dieser Stelle wollen wir Sie über die Nutzungsbedingungen für die Cloudomation Webseite (in Folgendem: Webseite) informieren.
 

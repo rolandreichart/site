@@ -1,4 +1,6 @@
 # Datenschutzerklärung Cloudomation
+Version 1  
+\1. Februar 2019
 
 Sie können die Cloudomation Datenschutzerklärung [hier](/sitedata/downloads/Datenschutzerkl%C3%A4rung%20Cloudomation.pdf){ext} **herunterladen**.
 

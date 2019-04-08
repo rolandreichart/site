@@ -1,4 +1,6 @@
 # Terms of Use Cloudomation website
+Version 1  
+February 1st 2019
 
 On this page, we want to inform you of the terms of use for the Cloudomation website (the "Site").
 
