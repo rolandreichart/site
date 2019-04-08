@@ -26,9 +26,9 @@ The SLO does not apply to any: (a) features designated Alpha or Beta, (b) featur
 
 ## 2 Definitions
 
-“Client Account” means the Cloudomation Platform Account for one entity, which can be an organisation or an individual person. Subscription Packages as well as Tokens are purchased for one Client Account. Several User Accounts can be created within one Client Account. All Users within one Client Account share Tokens and Content.
+“Client Account” means the Cloudomation Platform Account for one entity, which can be an organisation or an individual person. Subscription Packages as well as Token are purchased for one Client Account. Several User Accounts can be created within one Client Account. All Users within one Client Account share Token and Content.
 
-“Client Administrator” means the role within one Client Account which has administrator privileges and responsibilities. The Client Administrator is our main point of contact for all communications around your Client Account. The Client Administrator is the only role within a Client Account that can upgrade or downgrade Subscription Packages, purchase Tokens, cancel a Subscription Package, and create and delete User Accounts.
+“Client Administrator” means the role within one Client Account which has administrator privileges and responsibilities. The Client Administrator is our main point of contact for all communications around your Client Account. The Client Administrator is the only role within a Client Account that can upgrade or downgrade Subscription Packages, purchase Token, cancel a Subscription Package, and create and delete User Accounts.
 
 “Cloudomation Platform” means the Cloudomation Platform shared instance hosted by us. It is a cloud instance of the Cloudomation Platform Software that contains several Client Accounts which share the underlying server hardware. It is possible to purchase dedicated instances for your Client Account which would be fully separate from all other Client Accounts - get in touch with us at [info@cloudomation.io](mailto:info@cloudomation.io) for more information on dedicated instances.
 
@@ -50,7 +50,7 @@ The SLO does not apply to any: (a) features designated Alpha or Beta, (b) featur
 
 “Platform Usage Data” means all logs we collect about your usage of the Cloudomation Platform, which can include usage of computing and storage resources on the underlying hardware, and other metrics such as information about outgoing and incoming connections.
 
-“Premium Subscription Package” means the third tier paid Subscription Package. It includes a sizeable amount of Tokens as well as a Premium Support Package as described in the section Support.
+“Premium Subscription Package” means the third tier paid Subscription Package. It includes a sizeable amount of Token as well as a Premium Support Package as described in the section Support.
 
 “SaaS” is an abbreviation for Software-as-a-Service and means Software that can be accessed via the Internet which is maintained by a software supplier.
 
@@ -58,15 +58,15 @@ The SLO does not apply to any: (a) features designated Alpha or Beta, (b) featur
 
 “SLO Check Script” means a script which can be executed to test the availability of the Cloudomation Platform. With the SLO Check Script, you can check if we are in compliance with our SLO (Service Level Objective). The SLO Check Script is provided by us for you to run at your own discretion. The SLO Check Script produces logs that are accepted as proof of Downtime by us.
 
-“Standard Subscription Package” means the second tier paid Subscription Package. It includes a medium amount of Tokens as well as a Standard Support Package as described in the section Support.
+“Standard Subscription Package” means the second tier paid Subscription Package. It includes a medium amount of Token as well as a Standard Support Package as described in the section Support.
 
-“Starter Subscription Package” means the first tier paid Subscription Package. It includes a small amount of Tokens as well as the Self-service Support Package as described in the section Support.
+“Starter Subscription Package” means the first tier paid Subscription Package. It includes a small amount of Token as well as the Self-service Support Package as described in the section Support.
 
 “Subscription Packages” means a service subscription which is needed for every active Client Account on the Cloudomation Platform. Every active Client Account has a Subscription Package associated with it, either a free Trial Subscription Package or one of the three tier paid Subscription Packages.
 
 “Termination Date” is the date at which your Client Account is labelled as cancelled.
 
-“Tokens” means the units of measurement for activities within one Client Account. Tokens are artificial units of measurement defined by us. Token usage is determined by a mix of resources that certain functionality requires to be run, and the complexity and business value of functionality as determined by us. Details on which functionality requires how many Tokens to run can be found on the Cloudomation website. Tokens are included in every Subscription Package. Additional Tokens can be purchased for all paid Subscription Packages.
+“Token” means the units of measurement for activities within one Client Account. Token are artificial units of measurement defined by us. Token usage is determined by a mix of resources that certain functionality requires to be run, and the complexity and business value of functionality as determined by us. Details on which functionality requires how many Token to run can be found on the Cloudomation website. Token are included in every Subscription Package. Additional Token can be purchased for all paid Subscription Packages.
 
 “Trial Subscription Package” means the free tier Subscription Package.
 
@@ -191,7 +191,7 @@ Value Added Tax. In order to process your bills in accordance with tax law, we n
 
 Compliance. You may access and use the Cloudomation Platform in accordance with these Terms. You will comply with the Terms and all laws, rules, and regulations applicable to your use of the Cloudomation Platform.
 
-Licensing. Active Tokens represent a license that entitles you to use the Cloudomation Platform for the duration of the validity of your Tokens.
+Licensing. Active Token represent a license that entitles you to use the Cloudomation Platform for the duration of the validity of your Token.
 
 Sublicencing. You may not sublicense or transfer your right to use the Cloudomation Platform.
 
@@ -203,7 +203,7 @@ Browser. The Cloudomation Platform User Interface is recommended for use with th
 
 Internet connection. Usage of the Cloudomation Platform User Interface requires an active internet connection. You are responsible to connect to the Cloudomation Platform via a secure internet connection with sufficient bandwidth.
 
-Limits. Use of the Cloudomation Platform is not restricted in terms of number of devices, users, or concurrent usage. All limits on Cloudomation Platform usage are established through the number of Tokens you have associated with your Client Account.
+Limits. Use of the Cloudomation Platform is not restricted in terms of number of devices, users, or concurrent usage. All limits on Cloudomation Platform usage are established through the number of Token you have associated with your Client Account.
 
 Intended use. The Cloudomation Platform is intended for use as an automation tool for software and software processes. Its intended use is exclusively within the realm of software with no direct physical effects. It is not intended for use as Computer Numerical Control (CNC) software or any other use with machinery, for use with potentially large physical effects such as the operation of power plants, dams, or similar infrastructure, for the use in settings with real-time or near-real-time operating requirements, or for the use in any other setting in which failure of operation of the Cloudomation Platform could result in direct bodily harm.
 
@@ -215,11 +215,11 @@ Term. The term of these Terms will commence on the day of contract conclusion an
 
 Notice periods for Subscription Packages. You can cancel your Subscription Package any time with the last calendar day of the current month.
 
-Notice periods for Tokens. You can cancel your subscription individual Tokens, several Tokens or all of your Tokens at any time with the last calendar day of the current month.
+Notice periods for Token. You can cancel your subscription individual Token, several Token or all of your Token at any time with the last calendar day of the current month.
 
-Notice periods for Subscription Packages and Tokens from our side. We can cancel your Subscription Packages and your Tokens partially or in full any time with the last calendar day of the current month.
+Notice periods for Subscription Packages and Token from our side. We can cancel your Subscription Packages and your Token partially or in full any time with the last calendar day of the current month.
 
-Deletion. Upon cancellation of your last valid Subscription Package, your Client Account will be marked as cancelled. Cancelled Client Accounts will deleted not before one week after the cancellation date. Client Account deletion includes deletion of all associated Content such as flow scripts, settings, files, etc. as well as user and account information. Within this week after the cancellation date of your Subscription Package, you will still be able to log into your Client Account and download Content. You will not be able to execute any automations or use any other Cloudomation Platform functionality that requires Tokens.
+Deletion. Upon cancellation of your last valid Subscription Package, your Client Account will be marked as cancelled. Cancelled Client Accounts will deleted not before one week after the cancellation date. Client Account deletion includes deletion of all associated Content such as flow scripts, settings, files, etc. as well as user and account information. Within this week after the cancellation date of your Subscription Package, you will still be able to log into your Client Account and download Content. You will not be able to execute any automations or use any other Cloudomation Platform functionality that requires Token.
 
 ## 6 Changes
 
@@ -237,7 +237,7 @@ Tax. Unless explicitly stated otherwise, all prices are net prices without Value
 
 Subscription Packages. Usage of the Cloudomation Platform requires an active Cloudomation Subscription Package. There are four Subscription Packages available: Trial, Starter, Standard and Premium. Details on prices and content of your active Subscription Package can be found in your Client Account as well as on your invoices. Details on prices and content of other Subscription Packages can be found on our website.
 
-Trial Subscription Package. Upon creation of a new Client Account on the Cloudomation Platform, we may issue you with a free Trial Subscription Package. Conditions of the free Trial Subscription Package, specifically amount of Tokens included in, and duration of validity of, the Free Trial Subscription, can be changed at our discretion without prior notice. You have no legal claim to a free Trial Subscription Package. Issuance of Trial Subscription Packages is subject to our sole discretion and is intended as one per legal entity (e.g. a person or organisation). You are not allowed to create several Client Accounts with the intention to gain access to several Trial Subscription Packages. Intended use of the Trial Subscription Package is evaluation and testing of the Cloudomation Platform, and not productive use. Client Accounts with a Trial Subscription Packages for which all associated Tokens have expired can be subject to cancellation in accordance with the notice periods laid out in the section “Term and Termination”.
+Trial Subscription Package. Upon creation of a new Client Account on the Cloudomation Platform, we may issue you with a free Trial Subscription Package. Conditions of the free Trial Subscription Package, specifically amount of Token included in, and duration of validity of, the Free Trial Subscription, can be changed at our discretion without prior notice. You have no legal claim to a free Trial Subscription Package. Issuance of Trial Subscription Packages is subject to our sole discretion and is intended as one per legal entity (e.g. a person or organisation). You are not allowed to create several Client Accounts with the intention to gain access to several Trial Subscription Packages. Intended use of the Trial Subscription Package is evaluation and testing of the Cloudomation Platform, and not productive use. Client Accounts with a Trial Subscription Packages for which all associated Token have expired can be subject to cancellation in accordance with the notice periods laid out in the section “Term and Termination”.
 
 Paid Subscription Packages. The Starter, Standard and Premium Packages are paid subscription packages. Each package includes support services as laid out in the section “Support”.
 
@@ -245,9 +245,9 @@ Purchasing your first paid Subscription Package. You can purchase your first pai
 
 Upgrading and downgrading paid Subscription Packages. You can upgrade and downgrade your paid Subscription Package any time with the start of the next month. Your current Subscription Package and your payment obligation for it will remain active until the end of the current month. The upgraded or downgraded package will become available at the start of the next month.
 
-Buying Tokens. Tokens can be purchased in addition to any of the three paid Subscription Packages. It is not possible to buy Tokens in addition to the Trial Subscription Package. Tokens can be purchased any day and are available immediately after purchase. If you buy Tokens during the month we will invoice you for the partial additional cost for the purchased Tokens for the remainder of the month. Partial cost is calculated using the following formula: ((monthly Token cost * 12) / 365) * number of days remaining in the month from day of validity of the new Tokens.
+Buying Token. Token can be purchased in addition to any of the three paid Subscription Packages. It is not possible to buy Token in addition to the Trial Subscription Package. Token can be purchased any day and are available immediately after purchase. If you buy Token during the month we will invoice you for the partial additional cost for the purchased Token for the remainder of the month. Partial cost is calculated using the following formula: ((monthly Token cost * 12) / 365) * number of days remaining in the month from day of validity of the new Token.
 
-Token usage calculation. We reserve the right to change how many Tokens are required to run specific functionality on the Cloudomation Platform. Information about how many Tokens are required to use specific features is available on our website.
+Token usage calculation. We reserve the right to change how many Token are required to run specific functionality on the Cloudomation Platform. Information about how many Token are required to use specific features is available on our website.
 
 ## 8 Billing and payment conditions
 
@@ -282,7 +282,7 @@ Causes. We may temporarily suspend your Client Account if we determine that:
 
 Obligations. If we temporarily suspend your Client Account you remain responsible for all fees and charges you incur during the period of suspension.
 
-Suspension effects. Temporary suspension will freeze all executions on your Client Account. You will still be able to log in to your Client Account and download Content, but you will not be able to execute any actions that require Tokens.
+Suspension effects. Temporary suspension will freeze all executions on your Client Account. You will still be able to log in to your Client Account and download Content, but you will not be able to execute any actions that require Token.
 
 Cancellation of temporarily suspended Client Accounts. Client Accounts that have been suspended continuously for more than four weeks can be subject to cancellation in accordance with the notice periods laid out in the section “Term and Termination”.
 

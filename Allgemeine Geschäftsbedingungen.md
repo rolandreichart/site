@@ -45,9 +45,9 @@ Das Service-Ziel findet keine Anwendung auf: (a) Funktionalität, die als Alpha 
 
 “Inhalt” bezeichnet alle von Benutzern erstellte Inhalte welche nicht von uns zur Verfügung gestellt werden und welche in Ihrem Kundenkonto gespeichert sind. Unter Ihre Inhalte fallen Ihre Flow Skripte, Dateien, Ausführungen etc.
 
-“Kontoadministrator” bezeichnet eine Funktion innerhalb eines Kundenkontos, welche Administratorenrechte und -verantwortung hat. Der Kontoadministrator ist unser erster Ansprechpartner für alle Kommunikationen, die Ihr Kundenkonto betreffen. Der Kontoadministrator ist die einzige Funktion innerhalb eines Kundenkontos, welche auf höher- oder niederwertige Lizenzpakete umsteigen, Tokens kaufen, sowie Benutzerkonten anlegen und löschen kann.
+“Kontoadministrator” bezeichnet eine Funktion innerhalb eines Kundenkontos, welche Administratorenrechte und -verantwortung hat. Der Kontoadministrator ist unser erster Ansprechpartner für alle Kommunikationen, die Ihr Kundenkonto betreffen. Der Kontoadministrator ist die einzige Funktion innerhalb eines Kundenkontos, welche auf höher- oder niederwertige Lizenzpakete umsteigen, Token kaufen, sowie Benutzerkonten anlegen und löschen kann.
 
-“Kundenkonto” bezeichnet das Cloudomation Plattform Konto für eine Rechtsperson, welche eine Einzelperson oder eine Organisation sein kann. Lizenzpakete sowie Tokens werden für ein Kundenkonto erworben. Innerhalb eines Kundenkontos können mehrere Benutzerkonten angelegt werden. Alle Benutzer in einem Kundenkonto teilen Tokens und Inhalte.
+“Kundenkonto” bezeichnet das Cloudomation Plattform Konto für eine Rechtsperson, welche eine Einzelperson oder eine Organisation sein kann. Lizenzpakete sowie Token werden für ein Kundenkonto erworben. Innerhalb eines Kundenkontos können mehrere Benutzerkonten angelegt werden. Alle Benutzer in einem Kundenkonto teilen Token und Inhalte.
 
 “Kündigungsdatum” ist das Datum, an dem Ihr Kundenkonto als gekündigt markiert wird.
 
@@ -57,7 +57,7 @@ Das Service-Ziel findet keine Anwendung auf: (a) Funktionalität, die als Alpha 
 
 “Nutzungsdaten” bezeichnet alle technischen Protokolle, die wir über Ihre Nutzung der Cloudomation Plattform aufzeichnen. Dies kann die Verwendung von Rechenleistung und Speicherplatzbelegung auf den Servern beinhalten, sowie andere Messzahlen wie z.B. Informationen über eingehende und ausgehende Verbindungen.
 
-“Premium Lizenzpaket” bezeichnet die dritte Stufe der bezahlten Lizenzpakete. Es enthält eine erhebliche Anzahl an Tokens sowie das Premium Support Paket, welches im Abschnitt “Support” beschrieben ist.
+“Premium Lizenzpaket” bezeichnet die dritte Stufe der bezahlten Lizenzpakete. Es enthält eine erhebliche Anzahl an Token sowie das Premium Support Paket, welches im Abschnitt “Support” beschrieben ist.
 
 “SaaS” ist die Abkürzung für Software-as-a-Service und bezeichnet über das Internet zur Verfügung stehende Software die von einem Softwareanbieter betrieben wird.
 
@@ -65,11 +65,11 @@ Das Service-Ziel findet keine Anwendung auf: (a) Funktionalität, die als Alpha 
 
 “Service-Ziel-Prüfungs-Skript” bezeichnet ein von uns definiertes  Skript das die Verfügbarkeit der Cloudomation Plattform überprüft. Das Service-Ziel-Prüfungs-Skript wird Ihnen von uns zur Verfügung gestellt und kann von Ihnen nach eigenem Ermessen durchgeführt werden um auf Ausfälle zu prüfen. Das Service-Ziel-Prüfungs-Skript erstellt Protokolle welche von uns als Nachweis eines Ausfalles akzeptiert werden.
 
-“Standard Lizenzpaket” bezeichnet die zweite Stufe der bezahlten Lizenzpakete. Es enthält eine mittlere Menge an Tokens und das Standard Support Paket, welches im Abschnitt “Support” beschrieben ist.
+“Standard Lizenzpaket” bezeichnet die zweite Stufe der bezahlten Lizenzpakete. Es enthält eine mittlere Menge an Token und das Standard Support Paket, welches im Abschnitt “Support” beschrieben ist.
 
-“Starter Lizenzpaket” bezeichnet die erste Stufe der bezahlten Lizenzpakete. Es enthält eine kleiner Anzahl an Tokens sowie das Gratis-Supportpaket, das im Abschnitt “Support” beschrieben wird.
+“Starter Lizenzpaket” bezeichnet die erste Stufe der bezahlten Lizenzpakete. Es enthält eine kleiner Anzahl an Token sowie das Gratis-Supportpaket, das im Abschnitt “Support” beschrieben wird.
 
-“Tokens” bezeichnet die Messeinheit für Aktivität in einem Kundenkonto. Tokens sind künstliche Messeinheiten, die von uns definiert werden. Tokenverbrauch wird durch eine Mischung aus Ressourcenverbrauch für bestimmte Funktionalität sowie die Komplexität und geschäftlichen Wert der Funktionalität, wie von uns festgelegt, bestimmt. Weitere Informationen dazu, welche Funktionalität wie viele Tokens kostet, finden Sie auf der Cloudomation Webseite. Alle Lizenzpakete enthalten Tokens. Für alle bezahlten Lizenzpakete können zusätzliche Tokens erworben werden.
+“Token” bezeichnet die Messeinheit für Aktivität in einem Kundenkonto. Token sind künstliche Messeinheiten, die von uns definiert werden. Tokenverbrauch wird durch eine Mischung aus Ressourcenverbrauch für bestimmte Funktionalität sowie die Komplexität und geschäftlichen Wert der Funktionalität, wie von uns festgelegt, bestimmt. Weitere Informationen dazu, welche Funktionalität wie viele Token kostet, finden Sie auf der Cloudomation Webseite. Alle Lizenzpakete enthalten Token. Für alle bezahlten Lizenzpakete können zusätzliche Token erworben werden.
 
 “Trial Lizenzpaket” bezeichnet die kostenfreie Stufe der Lizenzpakete.
 
@@ -183,7 +183,7 @@ Mehrwertsteuer. Um Ihre Rechnung in Übereinstimmung mit steuerrechtlichen Besti
 
 Einhaltung. Unter Einhaltung dieser AGB dürfen Sie auf die Cloudomation Plattform zugreifen und diese verwenden. Sie werden die AGB sowie alle Gesetzen, Regeln, und Richtlinien einhalten, die auf Ihre Nutzung der Cloudomation Plattform zutreffen.
 
-Lizenzierung. Gültige Tokens stellen eine Lizenz dar, welche Sie zur Nutzung der Cloudomation Plattform für die Dauer der Gültigkeit der Tokens berechtigt.
+Lizenzierung. Gültige Token stellen eine Lizenz dar, welche Sie zur Nutzung der Cloudomation Plattform für die Dauer der Gültigkeit der Token berechtigt.
 
 Unterlizenzierung. Sie dürfen Ihr Nutzungsrecht für die Cloudomation Plattform nicht weitergeben oder unterlizenzieren.
 
@@ -195,7 +195,7 @@ Webbrowser. Wir empfehlen die Verwendung des Chrome Webbrowsers zur Nutzung der 
 
 Internetverbindung. Nutzung der Cloudomation Plattform Benutzeroberfläche setzt eine aktive Internetverbindung voraus. Sie sind dafür verantwortlich, sich über eine sichere Internetverbindung mit ausreichend Bandbreite mit der Cloudomation Plattform zu verbinden.
 
-Einschränkungen. Nutzung der Cloudomation Plattform ist nicht eingeschränkt in Bezug auf Anzahl an Geräten, Nutzern, oder gleichzeitiger Nutzung. Alle Nutzungseinschränkungen werden über die Anzahl an Tokens abgebildet, die mit Ihrem Kundenkonto verbunden sind.
+Einschränkungen. Nutzung der Cloudomation Plattform ist nicht eingeschränkt in Bezug auf Anzahl an Geräten, Nutzern, oder gleichzeitiger Nutzung. Alle Nutzungseinschränkungen werden über die Anzahl an Token abgebildet, die mit Ihrem Kundenkonto verbunden sind.
 
 Bestimmungsgemäße Verwendung. Die Cloudomation Plattform ist für die Verwendung als Lösung zur Automatisierung von Software und Software-Prozessen vorgesehen. Ihre bestimmungsgemäße Verwendung beschränkt sich ausschließlich auf den Bereich von Software ohne direkte physische Auswirkungen. Sie ist nicht für die Verwendung mit Computer Numerical Control (CNC) Software oder für jegliche andere Anwendung mit Maschinen vorgesehen, noch für die Verwendung mit potentiell massiven physischen Auswirkungen wie dem Betrieb von Kraftwerken, Dämmen, oder ähnlicher Infrastruktur, noch für die Verwendung mit zeitkritischen Anwendungen, noch für die Verwendung in jeglichen anderen Umständen, in denen ein Ausfall der Cloudomation Plattform direkt in Personenschäden resultieren könnte, vorgesehen.
 
@@ -206,11 +206,11 @@ Laufzeit. Die Laufzeit der Verträge beginnt am Tag des Vertragsabschlusses und 
 
 Kündigungsfristen für Lizenzpakete. Sie können Ihr Lizenzpaket jederzeit zum letzten Kalendertag des laufenden Monats kündigen.
 
-Kündigungsfristen für Tokens. Sie können Ihr Abonnement für einzelne Tokens, mehrere Tokens oder alle Ihre Tokens jederzeit zum letzten Kalendertag des laufenden Monats kündigen.
+Kündigungsfristen für Token. Sie können Ihr Abonnement für einzelne Token, mehrere Token oder alle Ihre Token jederzeit zum letzten Kalendertag des laufenden Monats kündigen.
 
-Kündigungsfristen für Lizenzpakete und Tokens von unserer Seite. Wir können Ihre Lizenzpakete und Ihre Tokens jederzeit teilweise oder vollständig mit dem letzten Kalendertag des laufenden Monats kündigen.
+Kündigungsfristen für Lizenzpakete und Token von unserer Seite. Wir können Ihre Lizenzpakete und Ihre Token jederzeit teilweise oder vollständig mit dem letzten Kalendertag des laufenden Monats kündigen.
 
-Löschung. Nach Kündigung Ihres letzten gültigen Lizenzpakets wird Ihr Kundenkonto als gekündigt markiert. Als gekündigt markierte Kundenkonten werden fühestens eine Woche nach Kündigungsdatum gelöscht. Löschung des Kundenkontos beinhaltet Löschung aller verknüpfter Inhalte wie Flow Skripte, Settings, Dateien etc. sowie Benutzer- und Kundendaten. Innerhalb dieser Woche nach dem Kündigungsdatum Ihres Lizenzpakets können Sie sich in Ihr Kundenkonto einloggen und Inhalte herunterladen. Sie können keine Automatisierungen durchführen oder andere Funktionalität der Cloudomation Plattform nutzen, welche Tokens benötigen.
+Löschung. Nach Kündigung Ihres letzten gültigen Lizenzpakets wird Ihr Kundenkonto als gekündigt markiert. Als gekündigt markierte Kundenkonten werden fühestens eine Woche nach Kündigungsdatum gelöscht. Löschung des Kundenkontos beinhaltet Löschung aller verknüpfter Inhalte wie Flow Skripte, Settings, Dateien etc. sowie Benutzer- und Kundendaten. Innerhalb dieser Woche nach dem Kündigungsdatum Ihres Lizenzpakets können Sie sich in Ihr Kundenkonto einloggen und Inhalte herunterladen. Sie können keine Automatisierungen durchführen oder andere Funktionalität der Cloudomation Plattform nutzen, welche Token benötigen.
 
 ## 6 Änderungen
 Der Cloudomation Plattform. Von Zeit zu Zeit können wir manche oder sämtliche Funktionalität der Cloudomation Plattform ändern oder einstellen. Wir werden Sie von allen wesentlichen Änderungen oder Einstellungen von Funktionalität der Cloudomation Plattform informieren.
@@ -226,7 +226,7 @@ Steuern. Falls nicht ausdrücklich anders angegeben sind alle angegebenen Preise
 
 Lizenzpakete. Benützung der Cloudomation Plattform setzt ein aktives Lizenzpaket voraus. Es stehen vier Lizenzpakete zur Verfügung: Trial, Starter, Standard und Premium. Details zu den Preisen und Inhalten Ihres aktiven Lizenzpakets finden Sie in Ihrem Kundenkonto sowie auf Ihren Rechnungen. Details zu den Preisen und Inhalten anderer Lizenzpakete finden Sie auf unserer Webseite.
 
-Trial Lizenzpaket. Bei der Erstellung eines neuen Kundenkontos auf der Cloudomation Plattform können wir Ihnen ein kostenfreies Trial Lizenzpaket ausstellen. Bedingungen des kostenfreien Trial Lizenzpakets, insbesondere Anzahl an inkludierten Tokens und Gültigkeitsdauer des kostenfreien Trial Lizenzpakets, können nach unserem Ermessen ohne Vorankündigung geändert werden. Sie haben keinen Rechtsanspruch auf ein kostenfreies Trial Lizenzpaket. Ausstellung des Trial Lizenzpaketes unterliegt unserem alleinigen Ermessen und ist als ein Stück pro Rechtsperson (z.B. eine Person oder eine Organisation) vorgesehen. Sie dürfen nicht mehrere Kundenkonten anlegen mit der Absicht, Zugriff auf mehrere Trial Lizenzpakete zu erhalten. Beabsichtigte Verwendung der Trial Lizenzpakete ist Prüfung und Bewertung der Cloudomation Plattform und nicht produktiver Einsatz. Kundenkonten mit einem Trial Lizenzpaket dessen Tokens abgelaufen sind können unter Berücksichtigung der Kündigungsfristen, die im Abschnitt “Laufzeit und Kündigung” beschrieben sind, gekündigt werden.
+Trial Lizenzpaket. Bei der Erstellung eines neuen Kundenkontos auf der Cloudomation Plattform können wir Ihnen ein kostenfreies Trial Lizenzpaket ausstellen. Bedingungen des kostenfreien Trial Lizenzpakets, insbesondere Anzahl an inkludierten Token und Gültigkeitsdauer des kostenfreien Trial Lizenzpakets, können nach unserem Ermessen ohne Vorankündigung geändert werden. Sie haben keinen Rechtsanspruch auf ein kostenfreies Trial Lizenzpaket. Ausstellung des Trial Lizenzpaketes unterliegt unserem alleinigen Ermessen und ist als ein Stück pro Rechtsperson (z.B. eine Person oder eine Organisation) vorgesehen. Sie dürfen nicht mehrere Kundenkonten anlegen mit der Absicht, Zugriff auf mehrere Trial Lizenzpakete zu erhalten. Beabsichtigte Verwendung der Trial Lizenzpakete ist Prüfung und Bewertung der Cloudomation Plattform und nicht produktiver Einsatz. Kundenkonten mit einem Trial Lizenzpaket dessen Token abgelaufen sind können unter Berücksichtigung der Kündigungsfristen, die im Abschnitt “Laufzeit und Kündigung” beschrieben sind, gekündigt werden.
 
 Bezahlte Lizenzpakete. Das Starter, Standard und Premium Paket sind bezahlte Lizenzpakete. Jedes Paket beinhaltet Support-Services, welche im Abschnitt “Support” beschrieben werden.
 
@@ -234,9 +234,9 @@ Kauf des ersten kostenpflichtigen Lizenzpaketes. Sobald Sie ein Kundenkonto ange
 
 Umstieg auf ein anderes bezahltes Lizenzpaket. Sie können jederzeit mit dem Beginn des nächsten Monats auf ein höherwertiges oder niederwertiges bezahltes Lizenzpaket umsteigen. Ihr momentan aktives Lizenzpaket sowie Ihre Zahlungsverpflichtung für dieses blieben für den Rest des laufenden Monats aktiv. Das höher- oder niederwertigere Lizenzpaket steht ab Beginn des nächsten Monats zur Verfügung.
 
-Kauf von Tokens. Tokens können zusätzlich zu jedem der drei bezahlten Lizenzpakete gekauft werden. Es ist nicht möglich, Tokens zusätzlich zum kostenfreien Trial Lizenzpaket zu kaufen. Tokens können jederzeit gekauft werden und stehen sofort nach Kauf zur Verfügung. Wenn Sie Tokens während des Monats kaufen, stellen wir Ihnen die Kosten für die gekauften Tokens aliquot für den verbleibenden Rest des Monats in Rechnung. Aliquote Kosten werden nach folgender Formel berechnet: ((monatlicher Token-Preis \*12) / 365) \* Anzahl der verbleibenden Tage im Monat ab Gültigkeitsdatum der neuen Tokens.
+Kauf von Token. Token können zusätzlich zu jedem der drei bezahlten Lizenzpakete gekauft werden. Es ist nicht möglich, Token zusätzlich zum kostenfreien Trial Lizenzpaket zu kaufen. Token können jederzeit gekauft werden und stehen sofort nach Kauf zur Verfügung. Wenn Sie Token während des Monats kaufen, stellen wir Ihnen die Kosten für die gekauften Token aliquot für den verbleibenden Rest des Monats in Rechnung. Aliquote Kosten werden nach folgender Formel berechnet: ((monatlicher Token-Preis \*12) / 365) \* Anzahl der verbleibenden Tage im Monat ab Gültigkeitsdatum der neuen Token.
 
-Verbrauchsberechnung für Tokens. Wir behalten uns das Recht vor, zu ändern, wie viele Tokens notwendig sind, um bestimmte Funktionalität auf der Cloudomation Plattform durchzuführen. Informationen über Tokenverbrauch für bestimmte Funktionalität können auf unserer Webseite abgerufen werden.
+Verbrauchsberechnung für Token. Wir behalten uns das Recht vor, zu ändern, wie viele Token notwendig sind, um bestimmte Funktionalität auf der Cloudomation Plattform durchzuführen. Informationen über Tokenverbrauch für bestimmte Funktionalität können auf unserer Webseite abgerufen werden.
 
 ## 8 Rechnungslegung und Zahlungskonditionen
 
@@ -272,7 +272,7 @@ Gründe. Wir können Ihr Kundenkonto vorübergehend sperren, wenn wir feststelle
 
 Verpflichtungen. Falls wir Ihr Kundenkonto vorübergehend sperren sind sie weiterhin für alle Gebühren und Kosten verantwortlich, die während Ihrer Sperrung anfallen.
 
-Folgen einer Sperrung. Vorübergehende Sperrung friert alle Ausführungen auf Ihrem Kundenkonto ein. Sie können sich weiterhin in Ihr Kundenkonto einloggen und Inhalte herunterladen, aber Sie können keine Funktionalität verwenden, die Tokens benötigt.
+Folgen einer Sperrung. Vorübergehende Sperrung friert alle Ausführungen auf Ihrem Kundenkonto ein. Sie können sich weiterhin in Ihr Kundenkonto einloggen und Inhalte herunterladen, aber Sie können keine Funktionalität verwenden, die Token benötigt.
 
 Kündigung vorübergehend gesperrter Kundenkonten. Kundenkonten welche für mehr als vier Wochen ununterbrochen gesperrt waren können von uns unter Berücksichtigung der Kündigungsfristen, die im Abschnitt “Laufzeit und Kündigung” beschrieben sind, gekündigt werden.
 
