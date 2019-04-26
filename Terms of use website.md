@@ -4,7 +4,7 @@ February 1st 2019
 
 On this page, we want to inform you of the terms of use for the Cloudomation website (the "Site").
 
-You can **download** the Terms of Use for the website [here](/sitedata/downloads/Terms%20of%20use%20Cloudomation%20website.pdf){ext}.
+You can **download** the Terms of Use for the website [here](/sitedata/downloads/Terms%20of%20use%20Cloudomation%20website%20version%201.pdf){ext}.
 
 The terms of use are also available in **German** [here](/site/Nutzungsbedingungen+Webseite).
 

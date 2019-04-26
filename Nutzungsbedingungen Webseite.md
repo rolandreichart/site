@@ -4,7 +4,7 @@ Version 1
 
 An dieser Stelle wollen wir Sie über die Nutzungsbedingungen für die Cloudomation Webseite (in Folgendem: Webseite) informieren.
 
-Sie können die Nutzungsbedingungen für die Cloudomation Webseite [hier](/sitedata/downloads/Nutzungsbedingungen%20Cloudomation%20Webseite.pdf){ext} **herunterladen**.
+Sie können die Nutzungsbedingungen für die Cloudomation Webseite [hier](/sitedata/downloads/Nutzungsbedingungen%20Cloudomation%20Webseite%20Version%201.pdf){ext} **herunterladen**.
 
 Die Nutzungsbedingungen für die Webseite sind [hier](/site/Terms+of+use+website) auch auf **Englisch** verfügbar.
 

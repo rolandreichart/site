@@ -3,7 +3,7 @@
 Version 1  
 \1. Februar 2019
 
-Sie können die Allgemeinen Geschäftsbedingungen für die Cloudomation Plattform [hier](/sitedata/downloads/Allgemeine%20Gesch%C3%A4ftsbedingungen%20Cloudomation%20Plattform.pdf){ext} **herunterladen**.
+Sie können die Allgemeinen Geschäftsbedingungen für die Cloudomation Plattform [hier](/sitedata/downloads/Allgemeine%20Gesch%C3%A4ftsbedingungen%20Cloudomation%20Plattform%20Version%202.pdf){ext} **herunterladen**.
 
 Die Allgemeinen Geschäftsbedingungen für die Cloudomation Plattform sind [hier](/site/General+Terms+and+Conditions) auch auf **Englisch** verfügbar.
 
@@ -22,10 +22,12 @@ Die Cloudomation Plattform wird als Software-as-a-Service (“SaaS”) zur Verf�
 
 Service Ziele. Wir werden wirtschaftlich angemessene Anstrengungen unternehmen, um während eines monatlichen Abrechnungszeitraumes eine Systemverfügbarkeit von zumindest 95% sicher zu stellen (Service-Ziel).
 
+Ungeachtet des Vorhergehenden erkennen Sie an, dass das Internet aus abertausenden autonomen Systemen besteht, die sich ausserhalb unserer Kontrolle befinden. Routing Anomalien, Asymmetrien, Unbeständigkeiten und Fehler des Internets ausserhalb unserer Kontrolle können und werden auftreten, und gelten nicht als Verletzung des Service-Ziels. Während es Ihnen frei steht, die Systemverfügbarkeit auf Ihren Systemen und über andere Überwachungssysteme zu überprüfen werden wir proaktiv die Systemverfügbarkeit überwachen. Die Ergebnisse unserer Überwachung stellt die einzige und ausschließliche Grundlage für die Bestimmung der Systemverfügbarkeit dar.
+
 Das Service-Ziel findet keine Anwendung auf: (a) Funktionalität, die als Alpha oder Beta ausgewiesen ist, (b) Funktionalität, welche in der dazugehörigen Dokumentation als von dem Service-Ziel ausgenommen ausgewiesen ist, (c) Ausfälle: (i) die durch Faktoren hervorgerufen werden, die sich unserer angemessen Kontrolle entziehen, einschließlich eines Ereignisses höherer Gewalt oder Probleme des Internetzuganges sowie vergleichbare Probleme jenseits des Abgrenzungspunktes von Cloudomation; (ii) welche auf Ihrem Handeln oder Unterlassen oder demjenigen eines Dritten beruhen; (iii) deren Ursache sich in Ihrer Hardware, Software oder anderer Technologie und/oder der Hardware, Software oder anderer Technologie eines Dritten (ausser Hardware eines Dritten innerhalb unserer Kontrolle) liegt; (iv) die sich aufgrund unserer Aussetzung und Beendigung Ihres Rechts gemäß der AGB ergeben, die Cloudomation Plattform zu nutzen, oder (v) die durch Missbrauch oder anderes Verhalten verursacht werden, welches die AGB verletzt.
 
 ## 2 Definitionen
-“Ausfall” bezeichnet das Fehlschlagen der Durchführung des Service-Ziel-Prüfungs-Skriptes.
+“Ausfall” bedeutet, dass die Cloudomation REST API unter https://cloudomation.io/api nicht auf HTTP Anfragen reagiert oder mit einem HTTP 5* Code reagiert.
 
 “Ausfallperiode” bezeichnet einen Zeitraum von einer oder mehreren Minuten des Ausfalls. Ausfälle von weniger als einer Minute Dauer sowie wiederkehrende Ausfälle mit einer jeweiligen Dauer von weniger als einer Minute können nicht zu einer Ausfallperiode gezählt werden.
 
@@ -62,8 +64,6 @@ Das Service-Ziel findet keine Anwendung auf: (a) Funktionalität, die als Alpha 
 “SaaS” ist die Abkürzung für Software-as-a-Service und bezeichnet über das Internet zur Verfügung stehende Software die von einem Softwareanbieter betrieben wird.
 
 „Service-Ziel“ bezeichnet unsere Zusage bezüglich der monatlichen Systemverfügbarkeit der Cloudomation Plattform.
-
-“Service-Ziel-Prüfungs-Skript” bezeichnet ein von uns definiertes  Skript das die Verfügbarkeit der Cloudomation Plattform überprüft. Das Service-Ziel-Prüfungs-Skript wird Ihnen von uns zur Verfügung gestellt und kann von Ihnen nach eigenem Ermessen durchgeführt werden um auf Ausfälle zu prüfen. Das Service-Ziel-Prüfungs-Skript erstellt Protokolle welche von uns als Nachweis eines Ausfalles akzeptiert werden.
 
 “Standard Lizenzpaket” bezeichnet die zweite Stufe der bezahlten Lizenzpakete. Es enthält eine mittlere Menge an Token und das Standard Support Paket, welches im Abschnitt “Support” beschrieben ist.
 

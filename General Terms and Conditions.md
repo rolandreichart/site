@@ -2,7 +2,7 @@
 Version 1  
 February 1st 2019
 
-You can **download** the General Terms and Conditions for the Cloudomation platform [here](/sitedata/downloads/General%20Terms%20and%20Conditions%20Cloudomation%20platform.pdf){ext}.
+You can **download** the General Terms and Conditions for the Cloudomation platform [here](/sitedata/downloads/General%20Terms%20and%20Conditions%20Cloudomation%20platform%20version%202.pdf){ext}.
 
 The General Terms and Conditions are also available in **German** [here](/site/Allgemeine+Geschäftsbedingungen).
 
@@ -22,6 +22,8 @@ The Cloudomation Platform is provided as Software-as-a-service (“SaaS”) and 
 
 Service Level Objective. We will use commercially reasonable efforts to provide a Monthly Uptime to you of at least 95% during any monthly billing cycle (the “Service Level Objective” or “SLO”).
 
+Notwithstanding the foregoing, you recognize that the Internet is comprised of thousands upon thousands of autonomous systems that are beyond our control. Routing anomalies, asymmetries, inconsistencies and failures of the Internet outside of our control can and will occur, and such instances shall not be considered a breach of the SLO. Whilst you are free to monitor the Monthly Uptime on your systems and other monitoring services, we proactively monitor the Monthly Uptime. The results of these monitoring systems shall provide the sole and exclusive determination of the Monthly Uptime.
+
 The SLO does not apply to any: (a) features designated Alpha or Beta, (b) features excluded from the SLO (in the associated Documentation), or (c) errors: (i) caused by factors outside of our reasonable control, including any force majeure event or Internet access or related problems beyond the demarcation point of us; (ii) that result from any actions or inactions of you or any third party; (iii) that result from your equipment, software or other technology and/or third party equipment, software or other technology (other than third party equipment within our direct control); (iv) arising from our suspension and termination of your right to use the Cloudomation Platform in accordance with the Terms; or (v) that resulted from abuses or other behaviors that violate the Terms.
 
 ## 2 Definitions
@@ -40,7 +42,7 @@ The SLO does not apply to any: (a) features designated Alpha or Beta, (b) featur
 
 “Content” means all user generated content that is not provided by us and is stored within your Client Account. Your Content includes your flow scripts, settings, files, executions etc.
 
-“Downtime” means a failure of execution of the SLO Check Script.
+"Downtime" means that the Cloudomation REST API at https://cloudomation.io/api is not responding to HTTP requests or responds with a HTTP 5* response.
 
 “Downtime Period” means a period of one or more consecutive minutes of Downtime. Partial minutes or Intermittent Downtime for a period of less than one minute will not be counted towards any Downtime Periods.
 
@@ -55,8 +57,6 @@ The SLO does not apply to any: (a) features designated Alpha or Beta, (b) featur
 “SaaS” is an abbreviation for Software-as-a-Service and means Software that can be accessed via the Internet which is maintained by a software supplier.
 
 “SLO” means Service Level Objective and refers to the commitment we make with regards to the monthly uptime percentage of the Cloudomation Platform.
-
-“SLO Check Script” means a script which can be executed to test the availability of the Cloudomation Platform. With the SLO Check Script, you can check if we are in compliance with our SLO (Service Level Objective). The SLO Check Script is provided by us for you to run at your own discretion. The SLO Check Script produces logs that are accepted as proof of Downtime by us.
 
 “Standard Subscription Package” means the second tier paid Subscription Package. It includes a medium amount of Token as well as a Standard Support Package as described in the section Support.
 
