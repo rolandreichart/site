@@ -1,7 +1,7 @@
 
 # Allgemeine Geschäftsbedingungen Cloudomation Plattform
-Version 1  
-\1. Februar 2019
+Version 2  
+\9. April 2019
 
 Sie können die Allgemeinen Geschäftsbedingungen für die Cloudomation Plattform [hier](/sitedata/downloads/Allgemeine%20Gesch%C3%A4ftsbedingungen%20Cloudomation%20Plattform%20Version%202.pdf){ext} **herunterladen**.
 
