@@ -1,6 +1,6 @@
 # Cloudomation Platform General Terms and Conditions
 Version 2  
-April 9th 2019
+2019-04-09
 
 You can **download** the General Terms and Conditions for the Cloudomation platform [here](/sitedata/downloads/General%20Terms%20and%20Conditions%20Cloudomation%20platform%20version%202.pdf){ext}.
 

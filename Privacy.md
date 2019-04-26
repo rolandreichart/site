@@ -1,6 +1,6 @@
 # Privacy Statement
 Version 1   
-February 1st 2019
+2019-02-01
 
 You can **download** the Cloudomation Privacy Statement [here](/sitedata/downloads/Privacy%20statement%20Cloudomation%20version%201.pdf){ext}.
 
