@@ -51,6 +51,6 @@ As an example, we can think of software you have installed in the cloud. Maybe y
 
 You have a certain set of software installed there right now. But that will change in the future. You might want to add more components, you might remove others, or install other versions of the software you use. In Cloudomation, you would define the installation and configuration of components in individual flow scripts that interact with each other - one flow script will trigger others, which install and configure individual components.
 
-In this way, it becomes very easy for you do just add another small flow script to your workflow, or change a configuration, or remove one step. Cloudomation enables you to keep the overview, make changes simple, and allows you to easily see which flow scripts interact with which other flow scripts and configurations, so that you always know where to apply your changes.
+In this way, it becomes very easy for you do just add another small flow script to your workflow, or change a configuration, or remove one step. Cloudomation enables you to keep track of the big picture, make changes simple, and allows you to easily see which flow scripts interact with which other flow scripts and configurations, so that you always know where to apply your changes.
 
 In this way, Cloudomation allows you to automate very complex processes, and makes them maintainable.
