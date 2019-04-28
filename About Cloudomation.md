@@ -2,7 +2,7 @@
 
 Imagine you could play Lego with software. How much fun software integration would be!
 
-Picture every piece of software that you have in your organisation as a building block. Making your software work together means using your blocks to build something bigger: it is possible, but quickly becomes precarious. If one block falls over, your entire tower comes down.  
+Picture every piece of software that you have in your organisation as a building block. Making your software work together means using your blocks to build something bigger: it is possible, but with regular building blocks it quickly becomes precarious. If one block falls over, your entire tower comes down.  
 With Cloudomation, your building blocks become Lego pieces: you can fit them together seamlessly, in almost any structure you want. You can start by fitting to pieces together, and continue to build it out. It can become very big and complex, while remaining robust. You can reuse the individual pieces, and it is as easy to extend as it is to build.
 
 Cloudomation is a cloud platform for software automation. It empowers system administrators, DevOps engineers, developers, and others to deal with increasingly complex IT infrastructures. Integrate diverse and siloed IT landscapes, manage your infrastructure in one place, and reliably offload repetitive tasks with Cloudomation.
@@ -38,5 +38,5 @@ Cloudomation is agentless. You can run your automations on any remote system wit
 Cloudomation is a general purpose tool. You can use it for automations in any industry, for any use case. Use it for continuous integration, data processing, or automating your billing or time keeping systems - anything is possible.  
 
 ### Python
-In Cloudomation, you write your automations in Python. This means that you have all the power of Python available to you in your automations to complement Cloudomation's core functionality, making the use of Cloudomation comfortable and easy even for not very experienced programmers.  
+In Cloudomation, you write your automations in Python. This means that you have all the power of Python available to you in your automations to complement Cloudomation's core functionality, making the use of Cloudomation comfortable and easy even for less experienced programmers.  
 In addition, Python is one of the most popular programming languages of our time and becoming more and more popular. As such, Python is one of the most commonly known languages in the IT world. You will have no trouble finding people with the right skills to set up and maintain your automations.
